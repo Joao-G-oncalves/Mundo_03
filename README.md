@@ -18,4 +18,6 @@ Pois ainda não terminei todos os exercícios.📘✍
 
 
 ## 💻 Agradecimentos 🖖
-- Agradeço ao Professor Gustavo Guanabara com seu grande projeto do  [Curso em Vídeo](https://www.cursoemvideo.com/). Que disponibiliza, de forma gratuita, para que diversas pessoas possam ter o primeiro contato com esse grande universo de programação, de uma forma muito didática e leve!
+- Agradeço ao Professor Gustavo Guanabara com seu grande projeto do  [Curso em Vídeo](https://www.cursoemvideo.com/).
+
+  Que disponibiliza, de forma gratuita, para que diversas pessoas possam ter o primeiro contato com esse grande universo de programação, de uma forma muito didática e leve!
