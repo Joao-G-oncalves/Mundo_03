@@ -2,7 +2,7 @@
 # Aulas de Python com Gustavo Guanabara
 ## |🐍 Mundo 03 |
 
-repositório para armazenar os exercícios feitos no mundo 02 nas aulas do Gustavo Guanabara no Youtube. 
+repositório para armazenar os exercícios feitos no mundo 03 nas aulas do Gustavo Guanabara no Youtube. 
 
 🚧Este repositório está em construção🚧
 
